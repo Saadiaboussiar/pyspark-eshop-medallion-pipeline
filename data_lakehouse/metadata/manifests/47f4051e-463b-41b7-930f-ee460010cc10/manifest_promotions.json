@@ -1,8 +1,0 @@
-{
-  "run_id": "47f4051e-463b-41b7-930f-ee460010cc10",
-  "source_name": "promotions",
-  "rows_ingested": 12,
-  "ingestion_timestamp": "2026-11-04T21:29:58",
-  "bronze_path": "/home/jovyan/work/data_lakehouse/bronze/raw/promotions.jsonl",
-  "status": "SUCCESS"
-}

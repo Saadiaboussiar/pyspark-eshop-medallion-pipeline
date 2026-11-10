@@ -1,8 +1,0 @@
-{
-  "run_id": "10bfbfd8-020b-4a91-82c0-270598bc7e95",
-  "source_name": "orders",
-  "rows_ingested": 44,
-  "ingestion_timestamp": "2026-11-07T18:34:04",
-  "bronze_path": "/home/jovyan/work/data_lakehouse/bronze/raw/orders.csv",
-  "status": "SUCCESS"
-}

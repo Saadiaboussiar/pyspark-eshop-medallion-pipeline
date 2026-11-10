@@ -1,0 +1,8 @@
+# Sorties régénérables
+data_lakehouse/bronze/parquet/
+data_lakehouse/silver/
+data_lakehouse/gold/
+data_lakehouse/quarantine/
+data_lakehouse/metadata/audit/
+data_lakehouse/metadata/manifests/*
+
