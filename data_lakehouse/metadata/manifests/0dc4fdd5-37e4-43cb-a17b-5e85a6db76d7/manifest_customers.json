@@ -1,0 +1,8 @@
+{
+  "run_id": "0dc4fdd5-37e4-43cb-a17b-5e85a6db76d7",
+  "source_name": "customers",
+  "rows_ingested": 32,
+  "ingestion_timestamp": "2026-11-08T16:59:35",
+  "bronze_path": "/home/jovyan/work/data_lakehouse/bronze/raw/customers.csv",
+  "status": "SUCCESS"
+}
